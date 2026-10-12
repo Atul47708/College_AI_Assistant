@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "name": "Atul",
+            "subject": "Python",
+            "attended": 42,
+            "total_classes": 50,
+            "attendance_status": "Present"
+        },
+        {
+            "name": "Sanjay",
+            "subject": "Python",
+            "attended": 38,
+            "total_classes": 50,
+            "attendance_status": "Present"
+        },
+        {
+            "name": "Alok",
+            "subject": "Python",
+            "attended": 45,
+            "total_classes": 50,
+            "attendance_status": "Present"
+        },
+        {
+            "name": "Harshit",
+            "subject": "Python",
+            "attended": 40,
+            "total_classes": 50,
+            "attendance_status": "Present"
+        }
+    ]
+}
