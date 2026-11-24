@@ -23,7 +23,7 @@ if not HF_TOKEN:
 
 client = InferenceClient(
     provider="auto",
-    api_key=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
+    api_key=AQ.Ab8RN6Kb0tn6qdETvS2L8PvIGKXqFSVBpuauCwVl6zOhSws1Zg
 )
 
 
